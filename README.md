@@ -34,6 +34,6 @@ This **Skin Cancer Detection App** is a complete solution that leverages cutting
 
 1. **Python 3.8 or higher**.
 2. **Node.js and npm**.
-3. **Kaggle Dataset**: [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic). Download the dataset to train or validate your model.
+3. **Kaggle Dataset**: [Skin Cancer Dataset](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic). Download the dataset to train or validate your model.
 
 
